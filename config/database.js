@@ -4,7 +4,7 @@ const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: '',
-    database: 'puspresnas',
+    database: 'web_vokasi',
     dialect: 'mysql',
     pool: {
         max: 5,
